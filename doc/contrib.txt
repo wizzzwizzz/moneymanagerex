@@ -9,7 +9,7 @@ Gabriele         [gabriele-v]
 =======================================
 ##Translations
 Brazilian Portuguese
--- Jose Carlos
+-- Jose Carlos, Daniel Cunha de Almeida
 Bulgarian
 -- Ivan Gyokov, Poltargaista
 Croatian
